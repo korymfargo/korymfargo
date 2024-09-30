@@ -4,7 +4,6 @@ I'm a seasoned full-stack software engineer with over a decade of extensive expe
 
 ## About Me
 
-- 💼 Currently working as a Senior/Lead Full-Stack Engineer at ITC Management Group.
 - 🚀 Passionate about frontend development with a focus on React.js and Vue.js.
 - 🌐 Check out my portfolio at [korymfargo.dev](https://korymfargo.dev).
 
@@ -24,7 +23,6 @@ I'm a seasoned full-stack software engineer with over a decade of extensive expe
 ## Let's Connect!
 
 - 📧 Email: korymfargo.dev@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/koryfargo)
 - 🌐 [Portfolio](https://korymfargo.dev)
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
